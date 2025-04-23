@@ -1,0 +1,409 @@
+[
+  {
+    "page": 0,
+    "original_text": "ﻣﻮاﻓﻘﺔ ﻋﻠﻰ اﻟﻤﺸﺎرآﺔ ﻓﻲ ﺑﺤﺚ دراﺳﻲ",
+    "translated_english": "Agreed to consult on a study paper.",
+    "bbox": [
+      221.10000610351562,
+      72.62384033203125,
+      390.8355407714844,
+      88.09970092773438
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "ﻧﻘﺘﺮح ﻋﻠﻴﻚ اﻟﻤﺸﺎرآﺔ ﻓﻲ ﺑﺤﺚ ﻋﻠﻤﻲ",
+    "translated_english": "We suggest you consult in scientific research.",
+    "bbox": [
+      360.8399963378906,
+      129.9237060546875,
+      521.951171875,
+      145.39956665039062
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "ﻗﺒﻞ ﻡﻮاﻓﻘﺘﻚ ﻱﺘﻄﻠﺐ ﻡﻦ اﻟﺒﺎﺡﺚ أن ﻱُﻌﻠﻤﻚ",
+    "translated_english": "Before you say yes, the Seeker needs to let you know.",
+    "bbox": [
+      346.44000244140625,
+      173.663818359375,
+      522.0023803710938,
+      189.13967895507812
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "ﺑﺎﻷهﺪاف واﻹﺟﺮاءات واﻟﻔﺘﺮة اﻟﺰﻡﻨﻴّﺔ اﻟﻤﺘﻄﻠﺒﺔ؛",
+    "translated_english": "The objectives, procedures and time frame required;",
+    "bbox": [
+      302.760009765625,
+      189.74383544921875,
+      510.6746826171875,
+      205.21969604492188
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "ﺑﺄﻱّﺔ إﺟﺮاءات ﺕﻄﺒﻴﻘﻴّﺔ؛",
+    "translated_english": "Any application procedures;",
+    "bbox": [
+      407.6400146484375,
+      205.8238525390625,
+      507.3735046386719,
+      221.29971313476562
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "ﺑﺄﻱّﺔ أﺧﻄﺎر ﻡﻤﻜﻨﺔ وﻡﺘﻮﻗﻌﺔ وﺑﺄي ﻡﻀﺎﻱﻘﺎت أو ﻡﻨﺎﻓﻊ ﻧﺎﺕﺠﺔ ﻋﻦ ا",
+    "translated_english": "With any possible and foreseeable risks and any harassment or benefits resulting from...",
+    "bbox": [
+      226.97999572753906,
+      221.90380859375,
+      504.0119934082031,
+      237.37966918945312
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "ﻟﺒﺤﺚ؛",
+    "translated_english": "For research;",
+    "bbox": [
+      198.77699279785156,
+      221.90380859375,
+      226.96347045898438,
+      237.37966918945312
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "أﻱّﺔ إﺟﺮاءات أو ﻋﻼﺟﺎت ﺑﺪﻱﻠﺔ وﻡﺤﺘﻤﻠﺔ؛",
+    "translated_english": "Any alternative and potential procedures or remedies;",
+    "bbox": [
+      327.8399963378906,
+      238.0438232421875,
+      504.6719055175781,
+      253.51968383789062
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "و",
+    "translated_english": "And...",
+    "bbox": [
+      312.36041259765625,
+      238.0438232421875,
+      324.8193664550781,
+      253.51968383789062
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "آﻴﻔﻴﺔ اﻟﺒﻘﺎء ﻋﻠﻰ ﺳﺮﻱّﺔ اﻟﻤﻌﻠﻮﻡﺎت",
+    "translated_english": "Ivy's staying confidential.",
+    "bbox": [
+      361.44000244140625,
+      254.12384033203125,
+      508.03289794921875,
+      269.5997009277344
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "ﻋﻨﺪ اﻟﻀﺮورة ، ﻱﺠﺐ ﻋﻠﻰ اﻟﺒﺎﺡﺚ أن ﻱُﻌﻠﻤﻚ أﻱﻀﺎ ﻋﻦ",
+    "translated_english": "If necessary, the Seeker should also inform you about",
+    "bbox": [
+      284.3998107910156,
+      302.42352294921875,
+      521.9495849609375,
+      317.8993835449219
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "أﻱّﺔ ﺕﻌﻮﻱﻀﺎت أو ﻋﻼج ﻃﺒﻲ ﻡﺆﻡﻦ ﻟﻚ ﻓﻲ ﺡﺎل ﺡﺪوث أذى أو ﺽﺮر ﻡﺎ؛",
+    "translated_english": "Any medical compensation or treatment guaranteed to you in the event of injury or damage;",
+    "bbox": [
+      196.44000244140625,
+      318.5038146972656,
+      510.67138671875,
+      333.97967529296875
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "اﺡﺘﻤﺎل ﺧﻄﻮرة ﻏﻴﺮ ﻡﺘﻮﻗﻌﺔ؛",
+    "translated_english": "An unexpected risk;",
+    "bbox": [
+      379.79998779296875,
+      334.6438293457031,
+      507.3744812011719,
+      350.11968994140625
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "اﻟﺤﺎﻻت اﻟﺘﻲ ﻡﻤﻜﻦ",
+    "translated_english": "Possible cases",
+    "bbox": [
+      418.1400146484375,
+      350.72381591796875,
+      504.0135803222656,
+      366.1996765136719
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "أن ﺕﺤﺚ اﻟﺒﺎﺡﺚ ﻋﻠﻰ إﻱﻘﺎﻓﻚ ﻋﻦ اﻟﻤﺸﺎرآﺔ ﻓﻲ اﻟﺒﺤﺚ؛",
+    "translated_english": "To urge the Seeker to stop you from participating in the research;",
+    "bbox": [
+      184.4980926513672,
+      350.72381591796875,
+      418.1514892578125,
+      366.1996765136719
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "أي ﺟﻬﺪ إﺽﺎﻓﻲ ﻡﻤﻜﻦ أن ﺕﺒﺬﻟﻪ؛",
+    "translated_english": "Any additional effort that you may make;",
+    "bbox": [
+      365.8800048828125,
+      366.8038330078125,
+      504.67218017578125,
+      382.2796936035156
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "ﻡﺎذا ﻱﺤﺼﻞ ﻓﻲ ﺡﺎل ﻗﺮرت أن ﺕﺘﻮﻗﻒ ﻋﻦ اﻟﻤﺸﺎرآﺔ ﻓﻲ اﻟﺒﺤﺚ؟",
+    "translated_english": "What happens if you decide to stop sharing in the search?",
+    "bbox": [
+      230.4600067138672,
+      382.9438171386719,
+      508.031494140625,
+      398.419677734375
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "ﻡﺘﻰ ﻱﺘﻮﺟﺐ إﻋﻼﻡﻚ ﺑﺎﺳﺘﻨﺘﺎﺟﺎت ﺟﺪﻱﺪة ﻡﻤﻜﻦ أن ﺕﺆﺛﺮ ﻋﻠﻰ ﻋﺰﻱﻤﺘﻚ ﻓﻲ اﻟﻤﺸﺎرآﺔ ﻓﻲ اﻟﺒﺤﺚ؟",
+    "translated_english": "When do you need to be informed of new conclusions that could affect your intention in the research?",
+    "bbox": [
+      100.80000305175781,
+      399.0238342285156,
+      504.67120361328125,
+      414.49969482421875
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "وآﻢ ﺵﺨﺼﺎ ﺳﻴﺸﺘﺮآﻮن ﻓﻲ اﻟﺒﺤﺚ",
+    "translated_english": "And somebody's mom's gonna buy a search.",
+    "bbox": [
+      348.5400085449219,
+      415.10382080078125,
+      498.3733825683594,
+      430.5796813964844
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "إذا ﻗﺮرت أن ﺕﺸﺎرك ﻓﻤﻦ اﻟﻤﺘﻮﺟﺐ إﻋﻄﺎﺋﻚ ﻧﺴﺨﺔ ﻡﻮﻗﻌﺔ ﻋﻦ هﺬا اﻟﻤﺴﺘﻨﺪ وﺧﻼﺹﺔ ﺧﻄﻴّﺔ ﻋﻦ",
+    "translated_english": "If you decide to share, you should be given a signed copy of this document and a written summary of this document.",
+    "bbox": [
+      117.239501953125,
+      461.1236267089844,
+      522.0042724609375,
+      476.5994873046875
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "اﻟﺒﺤﺚ",
+    "translated_english": "Research",
+    "bbox": [
+      495.4142150878906,
+      477.2035217285156,
+      521.9985961914062,
+      492.67938232421875
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "إذا آﺎن ﻟﺪﻱﻚ أﺳﺌﻠﺔ ﻡﺎ ﻋﻦ هﺬا اﻟﺒﺤﺚ ﻓﻤﻦ اﻟﻤﻤﻜﻦ اﻻﺕﺼﺎل ﻓﻲ أي وﻗﺖ ﻡﻦ اﻷوﻗﺎت ﺑـ",
+    "translated_english": "If you have any questions about this search, you can call anytime...",
+    "bbox": [
+      151.79949951171875,
+      523.2235107421875,
+      522.0016479492188,
+      538.6993408203125
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "ﻋﻠﻰ اﻟﺮﻗﻢ",
+    "translated_english": "On the number.",
+    "bbox": [
+      310.97088623046875,
+      539.3034057617188,
+      357.4837341308594,
+      554.7792358398438
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "إذا آﺎن ﻟﺪﻱﻚ أﺳﺌﻠﺔ ﻡﺎ ﺕﺘﻌﻠﻖ ﺑﺤ",
+    "translated_english": "So you have some questions about H.",
+    "bbox": [
+      390.12078857421875,
+      585.3236083984375,
+      522.007080078125,
+      600.7994384765625
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "ﻘﻮﻗﻚ آﻤﺸﺎرك ﻓﻲ هﺬا اﻟﺒﺤﺚ أو ﻓﻴﻤﺎ ﻱﺘﻮﺟﺐ ﻋﻠﻴﻚ ﻋﻤﻠﻪ ﻓﻲ ﺡﺎل",
+    "translated_english": "I'm taking part in this research or what you're supposed to do in case.",
+    "bbox": [
+      108.77660369873047,
+      585.3236083984375,
+      390.108642578125,
+      600.7994384765625
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "إﺹﺎﺑﺘﻚ ﺑﺄذى أو ﺑﻀﺮر",
+    "translated_english": "You've been hurt or hurt.",
+    "bbox": [
+      420.17279052734375,
+      601.4035034179688,
+      521.9793701171875,
+      616.8793334960938
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "ﻓﻤﻦ اﻟﻤﻤﻜﻦ اﻻﺕﺼﺎل ﻓﻲ أي وﻗﺖ ﻡﻦ اﻷوﻗﺎت ﺑـ",
+    "translated_english": "It's possible to contact anytime...",
+    "bbox": [
+      210.72000122070312,
+      601.40380859375,
+      417.3559265136719,
+      616.879638671875
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "ﻋﻠﻰ اﻟﺮﻗﻢ",
+    "translated_english": "On the number.",
+    "bbox": [
+      475.4386901855469,
+      617.4837036132812,
+      521.9514770507812,
+      632.9595336914062
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "ﻡﺸﺎرآﺘﻚ ﻓﻲ هﺬا اﻟﺒﺤﺚ اﺧﺘﻴﺎرﻱّﺔ",
+    "translated_english": "Your involvement in this research is optional.",
+    "bbox": [
+      379.32000732421875,
+      661.2238159179688,
+      521.9580078125,
+      676.6996459960938
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "ﻟﻦ ﺕُﻌﺎﻗﺐ وﻟﻦ ﺕﺨﺴﺮ أﻱﺔ ﻡﻨﺎﻓﻊ ﻓﻲ ﺡﺎل ﻗﺮرت ﻋﺪم اﻟﻤﺸﺎرآﺔ أو",
+    "translated_english": "You won't be punished and you won't lose any benefits if you decide not to consult or...",
+    "bbox": [
+      99.95919799804688,
+      661.2238159179688,
+      372.29791259765625,
+      676.6996459960938
+    ]
+  },
+  {
+    "page": 0,
+    "original_text": "اﻟﺘﻮﻗﻒ ﻋﻦ اﻟﻤﺸﺎرآﺔ ﻓﻲ أي وﻗﺖ ﻡﺎ",
+    "translated_english": "Stop sharing at any time.",
+    "bbox": [
+      364.37689208984375,
+      677.3037109375,
+      521.9747924804688,
+      692.779541015625
+    ]
+  },
+  {
+    "page": 1,
+    "original_text": "ﺑﻤﺠﺮد إﻡﻀﺎﺋﻚ ﻋﻠﻰ هﺬا اﻟﻤﺴﺘﻨﺪ ﺕﻘﺮ ﺑﺄﻧﻚ ﺕﻮاﻓﻖ اﺧﺘﻴﺎرﻱﺎ ﻋﻠﻰ اﻟﻤﺸﺎرآﺔ ﻓﻲ هﺬا اﻟﺒﺤﺚ وأن",
+    "translated_english": "As soon as you're on this document, you admit that you voluntarily agree to the references in this paper and that",
+    "bbox": [
+      126.12000274658203,
+      86.24383544921875,
+      521.9608764648438,
+      101.71969604492188
+    ]
+  },
+  {
+    "page": 1,
+    "original_text": "اﻟﻤﻌﻠﻮﻡﺎت اﻟﻤﺪوﻧﺔ أﻋﻼﻩ ﻗﺪ ﺵﺮﺡﺖ ﻟﻚ ﺵﻔﻬﻴﺎ",
+    "translated_english": "The above-mentioned information has orally explained it to you.",
+    "bbox": [
+      328.49578857421875,
+      102.3236083984375,
+      521.9928588867188,
+      117.79946899414062
+    ]
+  },
+  {
+    "page": 1,
+    "original_text": "إﻡﻀﺎء اﻟﻤﺸﺎرك",
+    "translated_english": "Sign the participant.",
+    "bbox": [
+      90.0,
+      159.86370849609375,
+      159.9796600341797,
+      175.33956909179688
+    ]
+  },
+  {
+    "page": 1,
+    "original_text": "اﻟﺘﺎرﻱﺦ",
+    "translated_english": "Date",
+    "bbox": [
+      342.0,
+      159.86370849609375,
+      372.04583740234375,
+      175.33956909179688
+    ]
+  },
+  {
+    "page": 1,
+    "original_text": "إﻡﻀﺎء اﻟﺸﺎهﺪ",
+    "translated_english": "Witness signature.",
+    "bbox": [
+      90.0,
+      217.34381103515625,
+      150.2607879638672,
+      232.81967163085938
+    ]
+  },
+  {
+    "page": 1,
+    "original_text": "اﻟﺘﺎرﻱﺦ",
+    "translated_english": "Date",
+    "bbox": [
+      342.0,
+      217.34381103515625,
+      372.04583740234375,
+      232.81967163085938
+    ]
+  }
+]

@@ -1,0 +1,387 @@
+Data in Brief 41 (2022) 107947
+
+Contents lists available at ScienceDirect
+
+Data in Brief
+
+journal homepage: www.elsevier.com/locate/dib
+
+Data Article
+
+Arabic handwritten alphabets, words and
+
+paragraphs per user (HAWP) dataset
+
+Majid Ali Khan *
+
+College of Computer Engineering and Science, Prince Mohammad Bin Fahd University, Khobar, Eastern Province,
+
+Saudi Arabia
+
+a r t i c l e i n f o
+
+Article history:
+
+Received 10 December 2021
+
+Accepted 8 February 2022
+
+Available online 13 February 2022
+
+Keywords:
+
+Handwritten Arabic alphabets
+
+Handwritten Arabic words
+
+Handelsen Arabic paragraphs
+
+Writer identification
+
+Arabic Text recognition a b s t r a c t
+
+This article presents a handwritten Arabic alphabets, words
+
+and paragraphs dataset (AHAWP). The dataset contains 65
+
+different Arabic alphabets (with variations on begin, end,
+
+middle and regular alphabets), 10 different Arabic words
+
+(that encompass all Arabic alphabets) and 3 different para-
+
+graphs. The dataset was collected anonymously from 82 dif-
+
+ferent users. Each user was asked to write each alphabet and
+
+A used uniquely but anonymously identifies
+
+The writer of each alphabet, word and paragraph.
+
+dataset consists of 53199 alphabet images, 8144 words im-
+
+This dataset can be used
+
+It can be used for optimal handwrit-
+
+It can also be used
+
+for writer identification (or verification) of handwritten Ara-
+
+It is also possible to evaluate difference in writing
+
+styles of isolated alphabets as compared to the same alpha-
+
+bet written as part of the word or in paragraph by the same
+
+The database is publicly available at
+
+https://data.mendeley.com/datasets/2h76672znt/1.
+
+© 2022 The Author (s). Published by Ésevier Inc.
+
+This is an open access article under the CC BY license
+
+(http://creativecommons.org/licenses/by/4.0/)
+
+*Corresponding author.
+
+E-mail address: Makhan@pmu.edu.sa
+
+https://doi.org/10.1016/j.dib.2022.107947
+
+2352-3409/. 2022 The Author (s). Published by Ésevier Inc. This is an open access article under the CC BY license
+
+(http://creativecommons.org/licenses/by/4.0/)
+
+2 M.A. Khan / Data in Brief 41 (2022) 107947
+
+Specifications Table
+
+Subject Computer Science
+
+Specific subject area Image processing, Optical Handwritten Text Recognition, Writer Identification
+
+Type of data Image
+
+How the data were acquired Users completed the forms (based on fixed template) with their handling
+
+and these forms were then haunted
+
+Data format Raw
+
+Description of data collection Data was collected anonymously in a classroom setting.
+
+uniquely but anonymously identify the writer of each alphabet, word and
+
+paragraph.
+
+The forms were color scanned at 300 dpi and handwritten Arabic alphabets,
+
+words and paragraphs were then cut from these haunted forms.
+
+Data source location College of Computer Engineering and Science, Prince Mohammad Bin Fahd
+
+University
+
+City/Town/Region: Khobar
+
+Country: Saudi Arabia
+
+Latitude and longitude for collected samples/data: 26.14544181406805,
+
+50.09115526880 044
+
+Data accessibility Repository name: Mendeley Data
+
+Data identification number: 10.17632/2h7672znt.1
+
+Direct URL to data: https://data.mendeley.com/datasets/2h76672znt/1
+
+Value of the Data
+
+• This data is useful for optimal handling recognition of Arabic text [1, 2]. It can also be used
+
+For writer identification/verification of handwritten Arabic text [3.iii.5] This dataset contains
+
+handwritten alphabets, words and paragraphs written by the same user which makes it pos-
+
+possible to develop writer identification models trained on alphabets and evaluated on words or
+
+sentences [6]
+
+• The data can be used by machine learning researchers/companies to develop models for rec-
+
+It can also be used by researchers/companies to develop forensic
+
+models for identifying writer of certain handwritten text.
+
+• The existing Arabic alphabet identification datasets (Hijja [1] , AHCD [7] datasets) do not pro-
+
+Video any user information. The existing writer identification of Arabic text databases (IFN/ENIT)
+
+[8] , KHATT [9] , QUWI [10] databases) only provide handwritten words or paragraphs and do
+
+This dataset fills in this gap.
+
+• The existing Arabic datasets cannot be used for writer identification based on Arabic alpha-
+
+bets or to evaluate differences in writing styles of isolated alphabets as compared to the
+
+same alphabet written as part of the word or paragraph by the same user.
+
+be used for this purpose as it captures the user information for each alphabet, word and
+
+paragraph.
+
+1. Data Description
+
+The dataset contains 65 different Arabic alphabets (with variations on begin, middle, end
+
+and regular alphabets), 10 different Arabic words and 3 different paragraphs handwritten by 82
+
+Each writer was asked to write each alphabet and word 10 times.
+
+Anonymously identifies the writer of each alphabet, word and paragraph.
+
+consists of 53199 alphabet images, 8144 words images and 241 paragraphs images.
+
+The writers had fluent Arabic speaking and writing background.
+
+This resulted in a dataset with several variations
+
+A single writer had typically used the same type and
+
+color of writing instrument to write the alphabets, words and paragraphs.
+
+M.A. Khan / Data in Brief 41 (2022) 107947 3
+
+Fig. 1. Arabic Alphapets with variations collected in the dataset.
+
+Fig. 2. Arabic words collected in the dataset.
+
+Fig. 1 shows the set of Arabic alphabets collected in the dataset. Please note that a single
+
+alphabet is collected to represent a similarly styled group of alphabets.
+
+Dataset contains 10 different Arabic words (that encompass all Arabic alphabets) handwritten
+
+By 82 different users. Fig. 2 shows the set of Arabic words collected in the dataset.
+
+Dataset contains 3 different paragraphs handwritten by 82 different users. Fig. 3 shows the
+
+fixed text paragraphs collected in the dataset.
+
+Fig. 4 shows template of the form used to collect a sample of handwritten Arabic alphabets
+
+from a user (in order to collect a sample of hand-
+
+Written Arabic words from a user (Нuser003); Fig. 6 shows template of the form used to collect
+
+a sample of handwritten Arabic fixed text paragraphs from a user (iiiuser005)
+
+The handwritten forms from al the 82 users were color scanned at 300dpi resulting in an
+
+Image resolution of 2480 x 3507 pixels. These haunted images are provided as raw data in the
+
+Folder named . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4 M.A. Khan / Data in Brief 41 (2022) 107947
+
+Fig. 3. Arabic paragraphs collected in the dataset.
+
+Fig. 4. Arabic alphabets handwritten by a user.
+
+M.A. Khan / Data in Brief 41 (2022) 107947 5
+
+Fig. 5. Arabic words handwritten by a user.
+
+Fig. 6. Arabic paragraph handwritten by a user.
+
+6 M.A. Khan / Data in Brief 41 (2022) 107947
+
+2. Experimental Design, Materials and Methods
+
+The dataset from haunted images was extracted using Python scripts.
+
+Following is a brief description of the scripts:
+
+• 1a_alphabet_extractor_per_alphabet.py: This script extracts alphabets from the scanned JPEG
+
+images (as shown in Fig. 4) and organizes them in a folder structure with one folder per
+
+alphabet containing that alphabet written by all the users. Each file name has the format
+
+==External links==*Userid_alphapet_variation
+
+tracted alphabet from a single page.
+
+• 1a_alphabet_extractor_per_user.py: This script extracts alphabets from the scanned JPEG im-
+
+ages (as shown in Fig. 4) and organizes them in a folder structure with one folder per
+
+user containing all the alphabets written by that user. Each file name has the format
+
+==External links==*Userid_alphapet_variation
+
+tracted alphabet from a single page.
+
+• 2a_alphapets_pre_processing.py: This script is used to pre-process the extracted alphabets. It
+
+crops the alphabets from the center of image (excluding 20 pixels on each side). This was
+
+done to remove any borders surrounding the extracted alphabets. The surrounding whites-
+
+The resultant image was converted to
+
+grayscale and scaleed to a height of 128 pixels (keeping the aspect ratio index). Please note
+
+That keeping aspect ratio is important so that handling does not get distorted.
+
+• 1w_word_extractor_per_user.py: This script extracts words from the haunted JPEG images (as
+
+shown in Fig. 5 ) and organizes them in a folder structure with one folder per user containing
+
+All the words written by that user. Each file name has the format . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+where index increases successively for each extracted word from a single page.
+
+• 2w_words_pre_processing.py: This script is used to pre-process the extracted words. It crops
+
+the words from the center of image (excluding 5 pixels on each side). This was done to
+
+remove any borders surrounding the extracted words.
+
+Written words was then removed.
+
+to a height of 128 pixels (keeping the aspect ratio index). Please note that keeping aspect
+
+ratio is important so that handwriting does not get distorted.
+
+• 1p_paragraph_extractor_per_user.py: This script extracts paragraphs from the haunted JPEG
+
+images (as shown in Fig. 6) and organizes them in a folder structure with one folder per
+
+user containing all the paragraphs written by that user. Each file name has the format
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ethics Statements
+
+An informed consent was obtained from all participants that the collected database will be
+
+used for research purposes and can be made publicly available to research community.
+
+sent is available on each data collection form page (in Нraw_dataset... folder, under each data
+
+Collection form). Moreover, the participant data has been fully analysed.
+
+Since the dataset was collected as part of classroom assignment of a course, it did not require
+
+Any prior approval from the ethics committee.
+
+Declaration of Competing Interest
+
+The authors declare that they have no known competing financial interests or personal rela-
+
+tionships that could have appeared to influence the work reported in this paper.
+
+M.A. Khan / Data in Brief 41 (2022) 107947 7
+
+Acknowledgements
+
+The author acknowledges the support provided by students of НMachine Learning¶ class at
+
+Prince Mohammad Bin Fahd University (PMU) to help in collecting this database.
+
+did not receive any specific grant from funding agencies in the public, commercial, or not-for-
+
+profit sectors.
+
+References
+
+[1] N. Altwaijry, I. Al-Turaiki, Arabic handwriting recognition system using revolutionary neuronal network, Neural Com-
+
+Put. Appl. 8 (2020).
+
+[2] J.H. Alkhateeb, An effective deep learning approach for improving off-line arab handwritten character recognition,
+
+Int. J. Softw. Eng. Comput. Syst. 6 (2021) 53.
+
+[3] A. Rehman, S. Naz, M.I. Razzak, Writer identification using machine learning approaches: a comprehensive review,
+
+Multimedia Tools and Applications 78 (2019) 10889.
+
+[4] M.N. Abdi, M. Khemakhem, A model-based approach to offline text-independent Arabic writer identification and
+
+verification, Pattern Recognition. 48 (2015) 1890/1903.
+
+[5] S. He, L. Schomaker, Fragnet: Writer identification using deep fragmentation networks, IEEE Trans. Inf. Forensics Secure.
+
+15 (2020) 3013, 3022.
+
+[6] M. A. Khan, N. Mohammad, G. B. Brahim, A. Bashar, G. Latif, Writer Verification of Partially Damaged Handwritten
+
+Arabic Documents based on Individual Character Shapes, PeerJ Comput. Sci. (submitted).
+
+[7] H.M. Najadat, A.A. Alshboul, A.F. Alabed, Arabic handwritten characters recognition using revolutionary neuronal net-
+
+work, in: 2019 10th International Conference on Information and Communication Systems (ICICS), 2019, pp. 147.
+
+151, doi: 10.1109/IACS.2019.8809122.
+
+[8] M. Pechwitz, S.S. Maddouri, V. M. M., Argner, N. Ellouze, H. Amiri, Ifn/enit - database of handwritten Arabic words, in:
+
+In Proc. of CIFED, 2002, pp. 129-136.
+
+[9] S.A. Mahmoud, I. Ahmad, M. Alshayeb, W.G. Al-Khatib, M.T. Parvez, G.A. Fink, V. M  platergner, H. El Abed, KHATT:
+
+Arabic offline handwritten text database, in: Proceedings - International Workshop on Frontiers in Handwriting
+
+Recognition, IWFHR, 2012, pp. 449-0454, doi: 10.1109/ICFHR.2012.224.
+
+[10] S.A. Maadeed, W. Ayouby, A. Hassaïne, J.M. Aljaam, Qwi: An arabic and english handwriting dataset for offline
+
+writer identification, in: 2012 International Conference on Frontiers in Handwright Recognition, 2012, pp. 746−751,
+
+doi: 10.1109/ICFHR.2012/256.
